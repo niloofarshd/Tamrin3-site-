@@ -1,0 +1,105 @@
+.body{
+	background-color: #e8e3e3;
+	color: black;
+	font-family: "Raleway", sans-serif;
+}
+
+.header{
+	text-align: center; 
+	padding-top: 50px; 
+	padding-bottom: 50px;
+}
+.span-header{
+	background-color: black; 
+	color: white; 
+	padding: 5px
+}
+.div1{
+	height: 560px;
+	width: 878px;
+	box-shadow: 5px 2px 20px 10px #d6d1d1;
+	background-color: white
+}
+.pic-sea{
+	height: 270px;
+	width: 878px;
+}
+
+.p{
+	margin-left: 20px;
+	padding-right: 10px;
+}
+
+.button{
+	width: 150px;
+	height: 50px;
+	border: 1px gray solid;
+	background-color: white;
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+.button:hover{
+background-color: gray;
+}
+.span-comment{
+	padding-left: 6px;
+    padding-right: 5px;
+    background-color: black; 
+    color: white; 
+    width: 21px; 
+    text-align: center;
+}
+
+.div2{ 
+	width: 408px; 
+	height: 415px; 
+	margin-top: -558px; 
+	margin-left: 918px;
+	background-color: white;
+	box-shadow: 5px 2px 20px 10px #d6d1d1;
+
+}
+.pic-niloo{
+	width: 408px;
+	height: 265px;
+}
+
+.li{
+	list-style-type: none; 
+	padding: 2px;
+	box-sizing: inherit;
+}
+.pic-li{
+	height: 50px;
+	width: 50px;
+	vertical-align: middle;
+	margin-left: 15px;
+}
+.li:hover{
+	background-color: gray;
+}
+
+.div3{
+	width: 408px; 
+	height: 200px; 
+	margin-top: 42px; 
+	margin-left: 918px;
+	background-color: white;
+	box-shadow: 5px 2px 20px 10px #d6d1d1;
+}
+
+.span-tags{
+	background-color: #cecccc;
+	font-size: 13px;
+	margin: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.footer-button{
+	margin-top: 36px;
+	margin-left: 5px;
+	height: 48px; 
+	width: 103px;
+}
